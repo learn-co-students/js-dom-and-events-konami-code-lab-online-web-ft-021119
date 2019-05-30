@@ -9,7 +9,7 @@ let index = 0;
 	 if (key === code[index]){
 	 	index++;
 	 	if (index === code.length){
-	 		alert('I am clicked!');
+	 		alert('You made it!');
 	 		index = 0;
 	 	}
 	 } else {
